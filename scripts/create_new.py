@@ -54,7 +54,9 @@ def create_new_dump():
     readme_path = os.path.join(dump_path, 'README.md')
     with open(readme_path, 'w') as f:
         f.write(f"# {inbox_dir_name}\n")
+        f.write("\n")
         f.write(f"Created on: {datetime.datetime.now().isoformat()}\n")
+        f.write("\n")
         f.write(f"Dump ID: {dump_id}\n")
 
 
