@@ -51,3 +51,11 @@
 - 2025-08-08 [[202502] zuto](./dump/d5a8cd90-f74e-4009-8dd7-11d529852d06/) `non-git`
 - 2025-08-08 [[202502] zuu](./dump/17d447e6-a8e2-4cec-a6ad-f2e0736936ba/) `non-git`
 - 2025-08-11 [powerEagle.zip](./dump/3b00d860-6b0c-4f60-a7be-37ee3ab58eb2/) `non-git`
+- 2025-08-11 [eagle-helper-main.zip](./dump/41efc2a1-c303-45ec-a6dc-6f7a89a38da7/) `non-git`
+- 2025-08-11 [eagle-skeleton-main.zip](./dump/43d2dbf0-b311-4e01-b49d-75984b0ab672/) `non-git`
+- 2025-08-11 [eagle-utils-main.zip](./dump/4ec3bf36-361a-4811-a009-18869dea62c6/) `non-git`
+- 2025-08-11 [eissar-savetags-mod-main.zip](./dump/77de84db-b1bb-4c66-9488-1181d16ca9fa/) `non-git`
+- 2025-08-11 [power-eagle-dev-mods-main.zip](./dump/a868ace7-7633-457c-bf8a-e6f894c3d29a/) `non-git`
+- 2025-08-11 [power-eagle-mods-main.zip](./dump/dff6e489-d495-482c-99f6-f80f65c55104/) `non-git`
+- 2025-08-11 [eagle-cooler-main.zip](./dump/78f4dc72-0670-4f1c-9b0e-2aa7495d8a26/) `non-git`
+- 2025-08-11 [power-eagle-dev-bucket-main.zip](./dump/bde02dee-b66a-4266-aeef-d30c83f6754f/) `non-git`

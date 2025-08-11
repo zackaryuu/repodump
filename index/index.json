@@ -316,5 +316,53 @@
         "name": "powerEagle.zip",
         "timestamp": "2025-08-11T13:46:19.240626",
         "git": false
+    },
+    {
+        "id": "41efc2a1-c303-45ec-a6dc-6f7a89a38da7",
+        "name": "eagle-helper-main.zip",
+        "timestamp": "2025-08-11T13:50:51.919958",
+        "git": false
+    },
+    {
+        "id": "43d2dbf0-b311-4e01-b49d-75984b0ab672",
+        "name": "eagle-skeleton-main.zip",
+        "timestamp": "2025-08-11T13:50:51.993135",
+        "git": false
+    },
+    {
+        "id": "4ec3bf36-361a-4811-a009-18869dea62c6",
+        "name": "eagle-utils-main.zip",
+        "timestamp": "2025-08-11T13:50:52.070712",
+        "git": false
+    },
+    {
+        "id": "77de84db-b1bb-4c66-9488-1181d16ca9fa",
+        "name": "eissar-savetags-mod-main.zip",
+        "timestamp": "2025-08-11T13:50:52.142856",
+        "git": false
+    },
+    {
+        "id": "a868ace7-7633-457c-bf8a-e6f894c3d29a",
+        "name": "power-eagle-dev-mods-main.zip",
+        "timestamp": "2025-08-11T13:50:52.215144",
+        "git": false
+    },
+    {
+        "id": "dff6e489-d495-482c-99f6-f80f65c55104",
+        "name": "power-eagle-mods-main.zip",
+        "timestamp": "2025-08-11T13:50:52.285427",
+        "git": false
+    },
+    {
+        "id": "78f4dc72-0670-4f1c-9b0e-2aa7495d8a26",
+        "name": "eagle-cooler-main.zip",
+        "timestamp": "2025-08-11T13:51:31.513301",
+        "git": false
+    },
+    {
+        "id": "bde02dee-b66a-4266-aeef-d30c83f6754f",
+        "name": "power-eagle-dev-bucket-main.zip",
+        "timestamp": "2025-08-11T13:51:31.588905",
+        "git": false
     }
 ]
