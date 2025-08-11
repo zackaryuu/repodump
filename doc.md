@@ -50,3 +50,4 @@
 - 2025-08-08 [[20250228] zuto](./dump/19ba89d5-fcc3-4792-bd0c-1e4ce9201a98/) `non-git`
 - 2025-08-08 [[202502] zuto](./dump/d5a8cd90-f74e-4009-8dd7-11d529852d06/) `non-git`
 - 2025-08-08 [[202502] zuu](./dump/17d447e6-a8e2-4cec-a6ad-f2e0736936ba/) `non-git`
+- 2025-08-11 [powerEagle.zip](./dump/3b00d860-6b0c-4f60-a7be-37ee3ab58eb2/) `non-git`
